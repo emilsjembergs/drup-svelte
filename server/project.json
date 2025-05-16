@@ -1,0 +1,16 @@
+{
+  "name":"testproj",
+  "description":"my test project",
+  "start_date":"2025-05-13",
+  "end_date":"2025-05-13",
+  "budget":0.13,
+  "contract_number":"ABC1234",
+  "min_workload":13,
+  "users":[
+    {
+      "id":2,
+      "project_role":"employee",
+      "workload":50
+    }
+  ]
+} 
